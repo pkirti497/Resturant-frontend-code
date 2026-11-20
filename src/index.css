@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: "Tenor Sans", sans-serif;
+  touch-action: manipulation;
+  overflow-x: hidden;
+}
+
+html,body{
+  width: 100%;
+  overflow-x: hidden;
+}
